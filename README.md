@@ -2,7 +2,7 @@
 
 ## Como usar:
 - Baixe a pasta
-- Coloque a onde fica os seus recursos\
+- Coloque a onde fica os seus recursos
 - Adicione isso no seu server.cfg 
 ```bash
  ensure set_time
